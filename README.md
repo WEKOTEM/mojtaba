@@ -2,16 +2,16 @@
 
 ______________________
 
-`git clone https://github.com/KENAEM/KENAE.git && cd KENAE && chmod +x install.sh && ./install.sh`
+`git clone https://github.com/WEKOTEM/mojtaba.git && cd mojtaba && chmod +x install.sh && ./install.sh`
 
 
 ______________________
        
- ./KENAE/ts    كود رن  
+ ./mojtaba/ts    كود رن  
 
 ______________________
 
-rm-rf *KENAE   كودحذف التنصيب
+rm-rf *mojtaba   كودحذف التنصيب
 
 
 
